@@ -1,2 +1,2 @@
 # Actividad-1-An-lisis-secuencias-de-c-ncer-de-pulm-n
-Identificar y analizar los genes entre tejido tumoral y normal de pulmón 
+Este repositorio contiene un conjunto de herramientas, scripts y pipelines diseñados para el análisis bioinformático de secuencias relacionadas con el cáncer de pulmón, incluyendo datos de ADN, ARN y variantes somáticas. El objetivo principal del proyecto es identificar mutaciones relevantes, patrones moleculares, biomarcadores potenciales y firmas genómicas asociadas a distintos subtipos de cáncer pulmonar (NSCLC, adenocarcinoma, carcinoma escamoso, SCLC, etc.)
